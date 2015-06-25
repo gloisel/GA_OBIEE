@@ -1,0 +1,8 @@
+
+# Issue with Dashboard edit
+=> obidash.editor not defined
+Possible reason: the code seems to be running to early because when the page is fully loaded the variable is defined
+
+# Remove the use of breadcrumbs, as it is risky and does not work when the reports are embedded
+
+# Page Type 'Other' seems to be showing up a lot
